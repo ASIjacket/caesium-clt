@@ -8,7 +8,7 @@
 * [optparse](https://github.com/skeeto/optparse)
 * [tinydir](https://github.com/cxong/tinydir)
 
-----------
+-------------
 
 ###### TESTED PLATFORMS
 * Mac OS X Big Sur (v10.15)
